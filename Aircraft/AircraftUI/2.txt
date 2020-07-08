@@ -1,0 +1,6 @@
+Welcome Onboard, Happy to Serve you
+=============================
+Name : Usman	Flight No: 1250
+FROM : PNQ-PUNE~-~-~-~-~-~-~-~-~TO : IGI-DELHI
+Seat No: 1A
+Please make sure you start boarding 45 minutes prior to the departure time!

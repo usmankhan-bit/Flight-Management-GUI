@@ -1,0 +1,3 @@
+Name	Flight No	Departure City	Arrival City	Seat num
+h1	1001	PNQ-PUNE	HBX-HUBBALLI	1A
+h2	1001	PNQ-PUNE	HBX-HUBBALLI	1B
